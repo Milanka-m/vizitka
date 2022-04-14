@@ -1,0 +1,33 @@
+{
+  "name": "skillfond-marketing-next",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@mui/icons-material": "^5.3.0",
+    "@mui/material": "^5.3.0",
+    "@mui/styled-engine-sc": "^5.3.0",
+    "@mui/styles": "^5.4.1",
+    "final-form": "^4.20.6",
+    "markdown-to-jsx": "^7.1.6",
+    "next": "12.0.8",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-final-form": "^6.5.8",
+    "styled-components": "^5.3.3",
+    "web-vitals": "^2.1.4"
+  },
+  "devDependencies": {
+    "@types/node": "17.0.10",
+    "@types/react": "17.0.38",
+    "eslint": "8.7.0",
+    "eslint-config-next": "12.0.8",
+    "typescript": "4.5.5"
+  }
+}
